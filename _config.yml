@@ -224,5 +224,5 @@ sitemap:
 deploy:
   type: git
   repository: https://github.com/depfish/myblog
-  branch: gh-pages
+  branch: master
   message: Update CNAME
