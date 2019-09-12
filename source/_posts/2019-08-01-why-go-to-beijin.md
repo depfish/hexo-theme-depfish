@@ -1,11 +1,22 @@
 ---
-layout: post
-title:  "为什么要做开发"
+title: "为什么要做开发"
+catalog: true
+toc_nav_num: true
+date: 2019-08-01 10:51:24
 author: "Murphy"
+header-img: "/img/article_header/article_header.png"
+tags:
+- devops
+catagories:
+- 闲言碎语
+updateDate: 2019-09-12 09:47:24
+top: 0
+
 ---
 
-**发展** 现在我已经铁了心，转DevOPS，提升开发技能，在CD很难找到目前薪水DevOPS的工作。
-目前的公司Ubisoft属于养老型公司，。昨天中午跟朋友Liyun聊了很久，说了我去北京的打算，他以为我头脑发热，
+
+**发展** 现在我已经铁了心，转DevOPS，提升开发技能。
+目前的公司Ubisoft属于养老型公司。昨天中午跟朋友Liyun聊了很久，说了我去北京的打算，他以为我头脑发热，
 把北京想成是天堂。其实跟我老婆已经商量好了，我去北京发展，她在CD上班带娃。
 如果后面可以找到去新加坡的机会，那麽以此为起点，去新加坡那边的薪水也会拿得更高一点（新加坡公司招人，一般薪水涨幅10~20%，很少有30%），
 幸运的话，还可以申请到新加坡PR。
