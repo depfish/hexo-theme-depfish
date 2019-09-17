@@ -134,6 +134,9 @@ category_map:
   Nginx: nginx
   Etcd: etcd
   Database: database
+  Gossip: gossip
+  Linux: linux
+  Python: python
 
 tag_map:
 home_posts_tag: true # show posts tags
