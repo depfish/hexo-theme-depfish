@@ -36,10 +36,11 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    depfish
+github_username:      depfish
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
+telegram_username:    aseafish
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
