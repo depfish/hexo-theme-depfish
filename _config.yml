@@ -23,7 +23,7 @@ permalink_defaults:
 # Site settings
 SEOTitle: opscoder | Blog
 email: e-mail_address
-description: "opscoder技术博客"
+description: "记录技术点滴、想法"
 keyword: "opscoder"
 header-img: /img/header_img/home.jpg
 article-img: /img/article_header/article_bg.jpg
@@ -138,6 +138,7 @@ category_map:
   Gossip: gossip
   Linux: linux
   Python: python
+  Algorithm: algorighm
 
 tag_map:
 home_posts_tag: true # show posts tags
@@ -227,6 +228,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/depfish/myblog
+  repository: https://github.com/depfish/depfish.github.io.git
   branch: master
   message: Update Blog
