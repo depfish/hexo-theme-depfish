@@ -8,7 +8,7 @@ header-img: "/img/article_header/article_header.png"
 tags:
 - devops
 catagories:
-- 闲言碎语
+- gossip
 updateDate: 2019-09-12 09:47:24
 top: 0
 ---
