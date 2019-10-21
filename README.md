@@ -30,7 +30,7 @@ Install hexo
 
 ```shell
 npm install hexo-cli -g
-
+npm install hexo-deployer-git
 #For more:https://hexo.io/zh-cn/index.html
 ```
 
