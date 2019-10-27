@@ -18,10 +18,10 @@ fixed: false
 
 ### 兴趣方向
 
-> 容器云（Docker、Kubernetes等）相关生态技术研究。
+> 容器云（Docker、Kubernetes、ServiceMesh等）相关生态技术研究。
 
 ### Books
 > "我因200本书脱胎换骨，因1000本书涅磐重生"
 > ![mybook](/img/article/books.jpg)
 > &gt; 2019 `《他者中的华人：中国近现代移民史》` `《李光耀观天下》` `《三国演义》`  `《人工智能》李开复`
-> 2019 `《未来简史》`
+> 2019 `《未来简史》` `《SRE Google运维解密》`
