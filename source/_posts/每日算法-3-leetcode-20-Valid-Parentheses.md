@@ -80,5 +80,6 @@ func isValid(s string) bool {
 
 }
 ```
+[leetcode完整代码](https://github.com/depfish/leetcode/tree/master/easy)
 
-链接：https://leetcode-cn.com/problems/valid-parentheses
+题目链接：https://leetcode-cn.com/problems/valid-parentheses

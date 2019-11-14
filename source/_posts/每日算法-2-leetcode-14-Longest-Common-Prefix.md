@@ -90,4 +90,6 @@ func longestCommonPrefix(strs []string) string {
 
 令人高兴的是，居然打败了100%的Gopher😂
 
-链接：https://leetcode-cn.com/problems/longest-common-prefix
+[leetcode完整代码](https://github.com/depfish/leetcode/tree/master/easy)
+
+题目链接：https://leetcode-cn.com/problems/longest-common-prefix
