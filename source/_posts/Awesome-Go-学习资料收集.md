@@ -18,7 +18,7 @@ top: 1
 ID|英文名|中文名|电子版|纸质版
 |---|---|---|---|---|
 |1|The Go Programming Lanuage|《Go语言圣经》|[《Go语言圣经》](https://books.studygolang.com/gopl-zh/)|[京东](https://item.jd.com/12187988.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1001188671_0_1932339856&utm_term=7f3fb3fe773d45fe92752a9e2c549943)
-|2|Go In Action|《Go语言实战》||[京东](https://item.jd.com/12136974.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1001188671_0_1932339856&utm_term=59a1a3c5c2ba4cc8aa9b97fa5fb163a1)|
+|2|Go In Action|《Go语言实战》|[Go语言实战.pdf](/pdf/Go语言实战.pdf)|[京东](https://item.jd.com/12136974.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1001188671_0_1932339856&utm_term=59a1a3c5c2ba4cc8aa9b97fa5fb163a1)|
 
 #### Go Web
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
