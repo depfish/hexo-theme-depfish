@@ -2,7 +2,7 @@
 title: Awesome Go 学习资料收集
 catalog: true
 date: 2019-11-23 12:27:09
-updateDate: 2019-11-13 14:47:24
+updateDate: 2019-11-23 14:47:24
 subtitle:
 header-img:
 tags:
