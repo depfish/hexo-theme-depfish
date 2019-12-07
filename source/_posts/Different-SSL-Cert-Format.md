@@ -6,6 +6,9 @@ updateDate: 2019-12-07 20:32:36
 subtitle:
 header-img: "norway_18.jpg"
 tags:
+- SSL
+- Cert
+- Format
 ---
 
 In the world of Public Key Infrastructure (PKI) there are many different file formats. The following are the major ones.
