@@ -4,7 +4,7 @@
 
 # Site
 title: opscoder 
-subtitle: 个人博客
+subtitle: depfish
 author: Murphy
 language:
 timezone: Asia/Shanghai
@@ -24,7 +24,7 @@ permalink_defaults:
 SEOTitle: opscoder | depfish
 email: e-mail_address
 description: "Deep sea fish"
-keyword: "opscoder"
+keyword: "opscoder depfish 深海之鱼"
 header-img: /img/header_img/home.jpg
 article-img: /img/article_header/article_bg.jpg
 404-img: /img/header_img/404.png
