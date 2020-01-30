@@ -21,9 +21,9 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: opscoder | Blog
+SEOTitle: opscoder | depfish
 email: e-mail_address
-description: "记录技术点滴、想法"
+description: "Deep sea fish"
 keyword: "opscoder"
 header-img: /img/header_img/home.jpg
 article-img: /img/article_header/article_bg.jpg
