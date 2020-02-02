@@ -25,3 +25,6 @@ fixed: false
 > ![mybook](/img/article/books.jpg)
 > &gt; 2019 `《他者中的华人：中国近现代移民史》` `《李光耀观天下》` `《三国演义》`  `《人工智能》李开复`
 > 2019 `《未来简史》` `《SRE Google运维解密》`
+
+### Thanks
+> 本站很多图来自[#Jessie Yu](https://twitter.com/jessieinorge)原创，已征得小姐姐同意。
