@@ -40,7 +40,7 @@ github_username:      depfish
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
-telegram_username:    aseafish
+# telegram_username:    
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
